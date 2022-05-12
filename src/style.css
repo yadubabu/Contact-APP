@@ -1,0 +1,10 @@
+.del{
+    background-color: red;
+    color:black;
+}
+input[type="submit"]{
+    background-color: lightgreen;
+    color: black;
+    padding: 5px;
+    border:2px solid green;
+}
